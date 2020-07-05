@@ -1,0 +1,1 @@
+不知不觉间已经参加算法训练营10周了,我费尽心机，却不敢妄谈毕业.这不仅让我想起了丘吉尔的名言:Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.  回想这一路行来，重复了一段段曾经的计算机科学家心中纠结，这让我获得了对面算法题，敢于去尝试的胆量。但我坚信这仅仅是增加了我的智力勇气, 真正的提升来自于枯燥的训练、真是世界的反馈、以及刻意练习.
